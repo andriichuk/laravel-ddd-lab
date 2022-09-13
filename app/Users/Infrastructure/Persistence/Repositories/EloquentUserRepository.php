@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Users\Infrastructure\Persistance\Repositories;
+namespace App\Users\Infrastructure\Persistence\Repositories;
 
 use App\Users\Domain\UserRepository;
 use App\Users\Models\User;

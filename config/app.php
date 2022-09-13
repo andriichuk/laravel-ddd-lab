@@ -195,6 +195,8 @@ return [
         \App\Shared\Application\Providers\EventServiceProvider::class,
         \App\Shared\Application\Providers\RouteServiceProvider::class,
 
+        \App\Users\Application\Providers\UsersContextServiceProvider::class,
+
     ],
 
     /*

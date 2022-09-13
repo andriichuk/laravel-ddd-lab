@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Users\Infrastructure\Persistance\Factories;
+namespace App\Users\Infrastructure\Persistence\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Illuminate\Support\Str;
